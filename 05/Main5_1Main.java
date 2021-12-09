@@ -6,7 +6,7 @@ public class Main5_1Main {
   }  
   
   public static void introduceOneself(){
-        String name = "中森　大雅";
+    String name = "中森　大雅";
     int age = 19;
     int height = 168;
     char eto = "ウサギ";
