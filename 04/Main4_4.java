@@ -1,4 +1,4 @@
-public class Main4_4 {
+public class Main4_4 {  //[船津]ブロック単位で、字下げを4文字間隔で行うこと
   public static void main(String[] args){
 
     
